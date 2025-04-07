@@ -4,6 +4,7 @@ import string
 import numpy as np
 import pandas as pd
 from datasets import load_dataset
+# import gcld3
 import langid
 import fasttext
 from pyfranc import franc
@@ -159,7 +160,7 @@ def run_smols(model_name, output_dir="results/"):
 
 
 def run_codeswitch(model_name, output_dir="results/"):
-    data = pd.read_csv('dataset/code-switch/combined_cs_datset.csv')[:2]
+    data = pd.read_csv('dataset/code-switch/combined_cs_datset.csv')
     data = get_prediction(model_name, data)
 
     create_dir(output_dir)
