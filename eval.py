@@ -6,6 +6,7 @@ import pandas as pd
 from datasets import load_dataset
 import langid
 import fasttext
+from pyfranc import franc
 from huggingface_hub import hf_hub_download
 
 from langdetect import detect
@@ -87,6 +88,13 @@ def get_prediction(model_name, df):
                 pred_prob.append(None)
                 pred_lang.append(None)
         df['top_pred'] = top_preds
+    elif model_name == "franc":
+        predictions = [franc.lang_detect(text)[:3] for text in df["codeswitch_sentence"]]
+        top_preds = [{label: float(prob) for label, prob in preds}
+                      for preds in predictions]
+        df['top_pred'] = top_preds
+        pred_prob = [float(pred[0][1]) for pred in predictions]
+        pred_lang = [pred[0][0] for pred in predictions]
     else:
         model = load_model(model_name)
         predictions = [model.predict(text.replace('\n', ''), k=3) for text in df["codeswitch_sentence"]]
@@ -151,7 +159,7 @@ def run_smols(model_name, output_dir="results/"):
 
 
 def run_codeswitch(model_name, output_dir="results/"):
-    data = pd.read_csv('dataset/code-switch/combined_cs_datset.csv')
+    data = pd.read_csv('dataset/code-switch/combined_cs_datset.csv')[:2]
     data = get_prediction(model_name, data)
 
     create_dir(output_dir)
@@ -159,5 +167,5 @@ def run_codeswitch(model_name, output_dir="results/"):
     return data
 
 
-run_codeswitch("laurievb/OpenLID")
+run_codeswitch("franc")
 # model_names = "laurievb/OpenLID", "cis-lmu/glotlid"
