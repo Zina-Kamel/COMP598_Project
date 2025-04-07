@@ -67,6 +67,41 @@ def clean_text(text):
     return text.strip()
 
 
+def get_prediction(model_name, df):
+    pred_lang = []
+    pred_prob = []
+    if model_name == "langid":
+        predictions = [langid.classify(text) for text in df["codeswitch_sentence"]]
+        pred_prob = [np.asarray(pred[1]) for pred in predictions]
+        pred_lang = [pred[0] for pred in predictions]
+    elif model_name == "langdetect":
+        top_preds = []
+        for text in df["codeswitch_sentence"]:
+            try:
+                preds = detect_langs(text.replace('\n', ''))
+                top_preds.append(preds)
+                pred_prob.append(str(preds[0]).split(':')[1])
+                pred_lang.append(str(preds[0]).split(':')[0])
+            except Exception:
+                top_preds.append(None)
+                pred_prob.append(None)
+                pred_lang.append(None)
+        df['top_pred'] = top_preds
+    else:
+        model = load_model(model_name)
+        predictions = [model.predict(text.replace('\n', ''), k=3) for text in df["codeswitch_sentence"]]
+        top_preds = [{label.replace("__label__", ""): float(prob) for label, prob in zip(labels, probs)}
+                     for labels, probs in predictions]
+        pred_prob = [np.asarray(pred[1])[0] for pred in predictions]
+        pred_lang = [pred[0][0].replace("__label__", "") for pred in predictions]
+        df['top_pred'] = top_preds
+
+    df["pred_lang"] = pred_lang
+    df["pred_prob"] = pred_prob
+
+    return df
+
+
 def run_flores(model_name, output_dir="./"):
     data_name = "openlanguagedata/flores_plus"
     data = load_dataset(data_name)["devtest"]
@@ -115,45 +150,14 @@ def run_smols(model_name, output_dir="results/"):
     return result_df
 
 
-def get_prediction(model_name, df):
-    pred_lang = []
-    pred_prob = []
-    if model_name == "langid":
-        predictions = [langid.classify(text) for text in df["codeswitch_sentence"]]
-        pred_prob = [np.asarray(pred[1]) for pred in predictions]
-        pred_lang = [pred[0] for pred in predictions]
-    elif model_name == "langdetect":
-        top_preds, pred_probs, pred_langs = [], [], []
-        for text in df["codeswitch_sentence"]:
-            try:
-                preds = detect_langs(text.replace('\n', ''))
-                top_preds.append(preds)
-                pred_probs.append(str(preds[0]).split(':')[1])
-                pred_langs.append(str(preds[0]).split(':')[0])
-            except Exception:
-                top_preds.append(None)
-                pred_probs.append(None)
-                pred_langs.append(None)
-        df['top_pred'] = top_preds
-    else:
-        model = load_model(model_name)
-        predictions = [model.predict(text.replace('\n', '')) for text in df["codeswitch_sentence"]]
-        pred_prob = [np.asarray(pred[1])[0] for pred in predictions]
-        pred_lang = [pred[0][0] for pred in predictions]
-
-    df["pred_lang"] = pred_lang
-    df["pred_prob"] = pred_prob
-
-    return df
-
-
 def run_codeswitch(model_name, output_dir="results/"):
     data = pd.read_csv('dataset/code-switch/combined_cs_datset.csv')
     data = get_prediction(model_name, data)
 
     create_dir(output_dir)
-    data.to_csv(f"{output_dir}{model_name.split('/')[-1]}_cs.csv", index=False)
+    data.to_csv(f"{output_dir}{model_name.split('/')[-1]}_multi_cs.csv", index=False)
     return data
 
 
-run_codeswitch("langdetect")
+run_codeswitch("laurievb/OpenLID")
+# model_names = "laurievb/OpenLID", "cis-lmu/glotlid"
