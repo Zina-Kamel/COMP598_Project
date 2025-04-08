@@ -4,7 +4,7 @@ import string
 import numpy as np
 import pandas as pd
 from datasets import load_dataset
-# import gcld3
+import gcld3
 import langid
 import fasttext
 from pyfranc import franc
@@ -69,7 +69,7 @@ def clean_text(text):
     return text.strip()
 
 
-def get_prediction(model_name, df):
+def get_prediction(model_name, df, codeswitch=True):
     pred_lang = []
     pred_prob = []
     if model_name == "langid":
@@ -96,6 +96,21 @@ def get_prediction(model_name, df):
         df['top_pred'] = top_preds
         pred_prob = [float(pred[0][1]) for pred in predictions]
         pred_lang = [pred[0][0] for pred in predictions]
+    elif model_name == "cld3":
+        detector = gcld3.NNetLanguageIdentifier(min_num_bytes=0, max_num_bytes=1000)
+        if codeswitch:
+            predictions = [detector.FindTopNMostFreqLangs(text=text, num_langs=2) for text in df["codeswitch_sentence"]]
+            top_preds = [
+                {p.language: float(p.probability) for p in prob}
+                for prob in predictions
+            ]
+            pred_prob = [pred[0].probability for pred in predictions]
+            pred_lang = [pred[0].language for pred in predictions]
+            df['top_pred'] = top_preds
+        else:
+            prediction = [detector.FindLanguage(text=text) for text in df["codeswitch_sentence"]]
+            pred_prob = [pred.probability for pred in prediction]
+            pred_lang = [pred.language for pred in prediction]
     else:
         model = load_model(model_name)
         predictions = [model.predict(text.replace('\n', ''), k=3) for text in df["codeswitch_sentence"]]
@@ -168,5 +183,5 @@ def run_codeswitch(model_name, output_dir="results/"):
     return data
 
 
-run_codeswitch("franc")
+run_codeswitch("cld3")
 # model_names = "laurievb/OpenLID", "cis-lmu/glotlid"
