@@ -16,7 +16,7 @@ from langdetect import detect_langs
 from langdetect import DetectorFactory
 DetectorFactory.seed = 0
 
-model_names = "laurievb/OpenLID", "cis-lmu/glotlid"
+model_names = "laurievb/OpenLID", "cis-lmu/glotlid", "facebook/fasttext-language-identification"
 smol_langs = [
     "aa", "ab", "ace", "ach", "ady", "aeb", "af", "ahr", "aii", "ak", "alz", "am", "apc", "apd", "ar", "arn", "arz",
     "as", "av", "awa", "ay", "ayl", "ba", "bal", "ban", "bbc", "bci", "bem", "ber", "bew", "bfq", "bfy", "bgq", "bho",
@@ -183,5 +183,5 @@ def run_codeswitch(model_name, output_dir="results/"):
     return data
 
 
-run_codeswitch("cld3")
-# model_names = "laurievb/OpenLID", "cis-lmu/glotlid"
+run_codeswitch("facebook/fasttext-language-identification")
+# model_names = "laurievb/OpenLID", "cis-lmu/glotlid", "facebook/fasttext-language-identification
