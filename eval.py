@@ -184,4 +184,5 @@ def run_codeswitch(model_name, output_dir="results/"):
 
 
 run_codeswitch("facebook/fasttext-language-identification")
-# model_names = "laurievb/OpenLID", "cis-lmu/glotlid", "facebook/fasttext-language-identification
+# model_names = "laurievb/OpenLID", "cis-lmu/glotlid", "facebook/fasttext-language-identification,
+# "langid", "langdetect", "franc", "cld3"
