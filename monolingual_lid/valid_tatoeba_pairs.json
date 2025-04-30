@@ -1,0 +1,13866 @@
+[
+  {
+    "lang1": "ab",
+    "lang2": "en"
+  },
+  {
+    "lang1": "acm",
+    "lang2": "en"
+  },
+  {
+    "lang1": "acm",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ady",
+    "lang2": "en"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ang"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ar"
+  },
+  {
+    "lang1": "af",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "af",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "af",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "af",
+    "lang2": "da"
+  },
+  {
+    "lang1": "af",
+    "lang2": "de"
+  },
+  {
+    "lang1": "af",
+    "lang2": "en"
+  },
+  {
+    "lang1": "af",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "af",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "af",
+    "lang2": "es"
+  },
+  {
+    "lang1": "af",
+    "lang2": "et"
+  },
+  {
+    "lang1": "af",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "af",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "af",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "af",
+    "lang2": "he"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "af",
+    "lang2": "is"
+  },
+  {
+    "lang1": "af",
+    "lang2": "it"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "af",
+    "lang2": "la"
+  },
+  {
+    "lang1": "af",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "af",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "af",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "af",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "af",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "af",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "af",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "af",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "af",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "af",
+    "lang2": "tn"
+  },
+  {
+    "lang1": "af",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "af",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "af",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "af",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "af",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "af",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "af",
+    "lang2": "zu"
+  },
+  {
+    "lang1": "afb",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "afb",
+    "lang2": "de"
+  },
+  {
+    "lang1": "afb",
+    "lang2": "en"
+  },
+  {
+    "lang1": "afb",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "afh",
+    "lang2": "en"
+  },
+  {
+    "lang1": "afh",
+    "lang2": "es"
+  },
+  {
+    "lang1": "afh",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "aii",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "ber"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ain",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "ajp",
+    "lang2": "ang"
+  },
+  {
+    "lang1": "ajp",
+    "lang2": "apc"
+  },
+  {
+    "lang1": "ajp",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ajp",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "akl",
+    "lang2": "en"
+  },
+  {
+    "lang1": "aln",
+    "lang2": "en"
+  },
+  {
+    "lang1": "am",
+    "lang2": "en"
+  },
+  {
+    "lang1": "an",
+    "lang2": "ary"
+  },
+  {
+    "lang1": "an",
+    "lang2": "en"
+  },
+  {
+    "lang1": "an",
+    "lang2": "es"
+  },
+  {
+    "lang1": "an",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "apc"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "ar"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "arz"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "avk"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "bar"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "da"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "he"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "is"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ang",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "aoz",
+    "lang2": "en"
+  },
+  {
+    "lang1": "aoz",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ar"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "arz"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "cay"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "de"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "en"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "es"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "he"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "io"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "la"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "nys"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "apc",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "arq"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "arz"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "avk"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ba"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ber"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "bg"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ca"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "da"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "drt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "el"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "he"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "pal"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "rn"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ar",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "ber"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "chg"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "de"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "en"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "es"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "he"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "la"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "arq",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ary",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ary",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "de"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "el"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "en"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "es"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "he"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "id"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "io"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "it"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "la"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "arz",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "as",
+    "lang2": "ber"
+  },
+  {
+    "lang1": "as",
+    "lang2": "cv"
+  },
+  {
+    "lang1": "as",
+    "lang2": "da"
+  },
+  {
+    "lang1": "as",
+    "lang2": "de"
+  },
+  {
+    "lang1": "as",
+    "lang2": "en"
+  },
+  {
+    "lang1": "as",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "as",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "as",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "as",
+    "lang2": "it"
+  },
+  {
+    "lang1": "as",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "as",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "as",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "ca"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ast",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "az"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "bg"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "da"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "de"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "el"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "en"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "es"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "he"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "io"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "it"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "la"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "avk",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "awa",
+    "lang2": "en"
+  },
+  {
+    "lang1": "awa",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ayl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "az",
+    "lang2": "bg"
+  },
+  {
+    "lang1": "az",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "az",
+    "lang2": "de"
+  },
+  {
+    "lang1": "az",
+    "lang2": "en"
+  },
+  {
+    "lang1": "az",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "az",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "az",
+    "lang2": "es"
+  },
+  {
+    "lang1": "az",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "az",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "az",
+    "lang2": "he"
+  },
+  {
+    "lang1": "az",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "az",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "az",
+    "lang2": "io"
+  },
+  {
+    "lang1": "az",
+    "lang2": "it"
+  },
+  {
+    "lang1": "az",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "az",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "az",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "az",
+    "lang2": "la"
+  },
+  {
+    "lang1": "az",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "az",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "az",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "az",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "az",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "az",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "az",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "az",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "az",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "az",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "az",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "az",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "chg"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "et"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ba",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "bal",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "de"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "es"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "la"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "bar",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ber"
+  },
+  {
+    "lang1": "be",
+    "lang2": "bg"
+  },
+  {
+    "lang1": "be",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "be",
+    "lang2": "crh"
+  },
+  {
+    "lang1": "be",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "be",
+    "lang2": "cy"
+  },
+  {
+    "lang1": "be",
+    "lang2": "da"
+  },
+  {
+    "lang1": "be",
+    "lang2": "de"
+  },
+  {
+    "lang1": "be",
+    "lang2": "en"
+  },
+  {
+    "lang1": "be",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "be",
+    "lang2": "es"
+  },
+  {
+    "lang1": "be",
+    "lang2": "et"
+  },
+  {
+    "lang1": "be",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "be",
+    "lang2": "he"
+  },
+  {
+    "lang1": "be",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "be",
+    "lang2": "io"
+  },
+  {
+    "lang1": "be",
+    "lang2": "it"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "be",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "be",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "be",
+    "lang2": "la"
+  },
+  {
+    "lang1": "be",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "be",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "be",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "be",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "be",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "be",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "be",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "be",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "be",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "be",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "be",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "be",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "be",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "be",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "be",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "be",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "be",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "be",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "be",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "be",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "da"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "he"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ber",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "bzt"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "da"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "de"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "dsb"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "el"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "es"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "he"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "id"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "io"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "it"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "la"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "bg",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "bho",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bho",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "bho",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "bjn",
+    "lang2": "es"
+  },
+  {
+    "lang1": "bjn",
+    "lang2": "id"
+  },
+  {
+    "lang1": "bm",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "de"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "es"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "it"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "bn",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "bo",
+    "lang2": "en"
+  },
+  {
+    "lang1": "br",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "br",
+    "lang2": "cy"
+  },
+  {
+    "lang1": "br",
+    "lang2": "de"
+  },
+  {
+    "lang1": "br",
+    "lang2": "en"
+  },
+  {
+    "lang1": "br",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "br",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "br",
+    "lang2": "it"
+  },
+  {
+    "lang1": "br",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "br",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "br",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "br",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "br",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "brx",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "de"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "en"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "es"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "it"
+  },
+  {
+    "lang1": "bs",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "cbk",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cbk",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cbk",
+    "lang2": "es"
+  },
+  {
+    "lang1": "cbk",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "cbk",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "cmn"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ce",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ceb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ch",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "chg",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "chg",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "chg",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "chg",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "chn",
+    "lang2": "en"
+  },
+  {
+    "lang1": "chn",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "cho",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cho",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "chr",
+    "lang2": "de"
+  },
+  {
+    "lang1": "chr",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cjy",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cjy",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "de"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "es"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ckb",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ckt",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "cs"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "cy"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "da"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "de"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "drt"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "dtp"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "dws"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "el"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "es"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hak"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "he"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hil"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hsn"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "id"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ii"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ilo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "io"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "is"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "it"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "km"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "la"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ln"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "my"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nan"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sah"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tg"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "th"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "cmn",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "co",
+    "lang2": "de"
+  },
+  {
+    "lang1": "co",
+    "lang2": "en"
+  },
+  {
+    "lang1": "co",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "co",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "co",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "co",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "co",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "co",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "co",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "cpi",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "cpi",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "en"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "es"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "io"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "crh",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "crk",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "da"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "de"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "drt"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "dsb"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "dws"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "el"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "es"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "he"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "id"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "io"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "it"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "la"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "pag"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "cs",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "de"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "el"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "en"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "es"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "la"
+  },
+  {
+    "lang1": "csb",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "de"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "es"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "cv",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "de"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "en"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "es"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "gv"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "he"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "it"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "la"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "cy",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "da",
+    "lang2": "de"
+  },
+  {
+    "lang1": "da",
+    "lang2": "el"
+  },
+  {
+    "lang1": "da",
+    "lang2": "en"
+  },
+  {
+    "lang1": "da",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "da",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "da",
+    "lang2": "es"
+  },
+  {
+    "lang1": "da",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "da",
+    "lang2": "fkv"
+  },
+  {
+    "lang1": "da",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "da",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "da",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "da",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "da",
+    "lang2": "he"
+  },
+  {
+    "lang1": "da",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "da",
+    "lang2": "io"
+  },
+  {
+    "lang1": "da",
+    "lang2": "is"
+  },
+  {
+    "lang1": "da",
+    "lang2": "it"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "da",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "da",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "da",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "da",
+    "lang2": "la"
+  },
+  {
+    "lang1": "da",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "da",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "da",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "da",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "da",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "da",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "da",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "da",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "da",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "da",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "da",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "da",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "da",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "da",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "da",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "da",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "da",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "da",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "da",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "da",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "da",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "da",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "da",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "da",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "da",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "da",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "da",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "da",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "da",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "da",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "dng"
+  },
+  {
+    "lang1": "de",
+    "lang2": "drt"
+  },
+  {
+    "lang1": "de",
+    "lang2": "dsb"
+  },
+  {
+    "lang1": "de",
+    "lang2": "dtp"
+  },
+  {
+    "lang1": "de",
+    "lang2": "dws"
+  },
+  {
+    "lang1": "de",
+    "lang2": "egl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "el"
+  },
+  {
+    "lang1": "de",
+    "lang2": "en"
+  },
+  {
+    "lang1": "de",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "de",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "es"
+  },
+  {
+    "lang1": "de",
+    "lang2": "et"
+  },
+  {
+    "lang1": "de",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "de",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "frr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "de",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "de",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "de",
+    "lang2": "got"
+  },
+  {
+    "lang1": "de",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "de",
+    "lang2": "gsw"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "he"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hrx"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "de",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "de",
+    "lang2": "id"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ilo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "io"
+  },
+  {
+    "lang1": "de",
+    "lang2": "is"
+  },
+  {
+    "lang1": "de",
+    "lang2": "it"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "de",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "jv"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "de",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "de",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "de",
+    "lang2": "km"
+  },
+  {
+    "lang1": "de",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "de",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ky"
+  },
+  {
+    "lang1": "de",
+    "lang2": "la"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "de",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "de",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "de",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "de",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "de",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "de",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pag"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pal"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pdc"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "de",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "de",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "de",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "de",
+    "lang2": "rm"
+  },
+  {
+    "lang1": "de",
+    "lang2": "rn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "de",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "de",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "se"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "de",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "de",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "de",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tg"
+  },
+  {
+    "lang1": "de",
+    "lang2": "th"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tn"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tpi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "de",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "de",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "de",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "de",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "de",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "war"
+  },
+  {
+    "lang1": "de",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "de",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "de",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "de",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "de",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "de",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "dng",
+    "lang2": "en"
+  },
+  {
+    "lang1": "dng",
+    "lang2": "es"
+  },
+  {
+    "lang1": "dng",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "el"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "en"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "es"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "et"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "he"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "io"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "la"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "drt",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "en"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "es"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "io"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "dsb",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "en"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "id"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "mvv"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "zlm"
+  },
+  {
+    "lang1": "dtp",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "dv",
+    "lang2": "en"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "en"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "es"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "dws",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ee",
+    "lang2": "en"
+  },
+  {
+    "lang1": "ee",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "egl",
+    "lang2": "en"
+  },
+  {
+    "lang1": "egl",
+    "lang2": "es"
+  },
+  {
+    "lang1": "egl",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "egl",
+    "lang2": "it"
+  },
+  {
+    "lang1": "el",
+    "lang2": "en"
+  },
+  {
+    "lang1": "el",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "el",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "el",
+    "lang2": "es"
+  },
+  {
+    "lang1": "el",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "el",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "el",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "el",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "el",
+    "lang2": "he"
+  },
+  {
+    "lang1": "el",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "el",
+    "lang2": "id"
+  },
+  {
+    "lang1": "el",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "el",
+    "lang2": "it"
+  },
+  {
+    "lang1": "el",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "el",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "el",
+    "lang2": "la"
+  },
+  {
+    "lang1": "el",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "el",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "el",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "el",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "el",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "el",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "el",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "el",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "el",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "el",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "el",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "el",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "el",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "el",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "el",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "el",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "el",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "el",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "el",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "emx",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "emx",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "en",
+    "lang2": "enm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "es"
+  },
+  {
+    "lang1": "en",
+    "lang2": "et"
+  },
+  {
+    "lang1": "en",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ext"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fj"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fkv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "frm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "frr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fuc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fur"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fuv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gag"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gan"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gbm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gcf"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gil"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gom"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "en",
+    "lang2": "got"
+  },
+  {
+    "lang1": "en",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gsw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "gv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ha"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hak"
+  },
+  {
+    "lang1": "en",
+    "lang2": "haw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "he"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hif"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hil"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hnj"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hoc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hrx"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hsn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ht"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "en",
+    "lang2": "iba"
+  },
+  {
+    "lang1": "en",
+    "lang2": "id"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ig"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ii"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ike"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ilo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "io"
+  },
+  {
+    "lang1": "en",
+    "lang2": "is"
+  },
+  {
+    "lang1": "en",
+    "lang2": "it"
+  },
+  {
+    "lang1": "en",
+    "lang2": "izh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "en",
+    "lang2": "jam"
+  },
+  {
+    "lang1": "en",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "jdt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "en",
+    "lang2": "jv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kam"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kek"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kha"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kjh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "km"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "en",
+    "lang2": "koi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kpv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "krc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kum"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ky"
+  },
+  {
+    "lang1": "en",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "en",
+    "lang2": "la"
+  },
+  {
+    "lang1": "en",
+    "lang2": "laa"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lij"
+  },
+  {
+    "lang1": "en",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lkt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lld"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lmo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ln"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ltg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lut"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mad"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mai"
+  },
+  {
+    "lang1": "en",
+    "lang2": "max"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mdf"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mfe"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mgm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mic"
+  },
+  {
+    "lang1": "en",
+    "lang2": "min"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ml"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mni"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mnw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "moh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mvv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mwl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "mww"
+  },
+  {
+    "lang1": "en",
+    "lang2": "my"
+  },
+  {
+    "lang1": "en",
+    "lang2": "myv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "na"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nah"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nan"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nch"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ngt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ngu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "niu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nlv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "en",
+    "lang2": "non"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "en",
+    "lang2": "npi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nst"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nus"
+  },
+  {
+    "lang1": "en",
+    "lang2": "nv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ny"
+  },
+  {
+    "lang1": "en",
+    "lang2": "oar"
+  },
+  {
+    "lang1": "en",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ood"
+  },
+  {
+    "lang1": "en",
+    "lang2": "or"
+  },
+  {
+    "lang1": "en",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "os"
+  },
+  {
+    "lang1": "en",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pa"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pag"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pal"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pam"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pau"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pdc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "en",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pnb"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ppl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ps"
+  },
+  {
+    "lang1": "en",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "qu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "quc"
+  },
+  {
+    "lang1": "en",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rap"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rif"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rue"
+  },
+  {
+    "lang1": "en",
+    "lang2": "rw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sa"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sah"
+  },
+  {
+    "lang1": "en",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sd"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "se"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sgs"
+  },
+  {
+    "lang1": "en",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "en",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "en",
+    "lang2": "si"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sma"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "so"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "en",
+    "lang2": "su"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "en",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ta"
+  },
+  {
+    "lang1": "en",
+    "lang2": "te"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tet"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tg"
+  },
+  {
+    "lang1": "en",
+    "lang2": "th"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ti"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tig"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tly"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tmw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tn"
+  },
+  {
+    "lang1": "en",
+    "lang2": "to"
+  },
+  {
+    "lang1": "en",
+    "lang2": "toi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tpi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tpw"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ts"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tts"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tvl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ty"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tyv"
+  },
+  {
+    "lang1": "en",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "en",
+    "lang2": "udm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "en",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "en",
+    "lang2": "umb"
+  },
+  {
+    "lang1": "en",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "en",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "en",
+    "lang2": "vec"
+  },
+  {
+    "lang1": "en",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "en",
+    "lang2": "wa"
+  },
+  {
+    "lang1": "en",
+    "lang2": "war"
+  },
+  {
+    "lang1": "en",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "en",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "en",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "en",
+    "lang2": "yo"
+  },
+  {
+    "lang1": "en",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "en",
+    "lang2": "zlm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "en",
+    "lang2": "zu"
+  },
+  {
+    "lang1": "en",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "eo"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "es"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "he"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "io"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "is"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "it"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "la"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "mwl"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "enm",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "es"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "et"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "frr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "gsw"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "he"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ht"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "id"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "io"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "is"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "it"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kha"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "km"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "koi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ky"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "la"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "moh"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "oar"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "os"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "th"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tpi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "eo",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "es",
+    "lang2": "et"
+  },
+  {
+    "lang1": "es",
+    "lang2": "eu"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fuc"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fur"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fuv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gcf"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "es",
+    "lang2": "got"
+  },
+  {
+    "lang1": "es",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gsw"
+  },
+  {
+    "lang1": "es",
+    "lang2": "gu"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "es",
+    "lang2": "he"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hoc"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hsn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ht"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "es",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "es",
+    "lang2": "id"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "es",
+    "lang2": "io"
+  },
+  {
+    "lang1": "es",
+    "lang2": "is"
+  },
+  {
+    "lang1": "es",
+    "lang2": "it"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "es",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "es",
+    "lang2": "jv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kek"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kha"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "km"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "es",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "es",
+    "lang2": "la"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lld"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ln"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lut"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mai"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "moh"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "es",
+    "lang2": "mww"
+  },
+  {
+    "lang1": "es",
+    "lang2": "my"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nah"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nch"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "es",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ood"
+  },
+  {
+    "lang1": "es",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "es",
+    "lang2": "otk"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pam"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pcd"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "es",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "es",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "es",
+    "lang2": "qu"
+  },
+  {
+    "lang1": "es",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "es",
+    "lang2": "rif"
+  },
+  {
+    "lang1": "es",
+    "lang2": "rm"
+  },
+  {
+    "lang1": "es",
+    "lang2": "rn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "es",
+    "lang2": "rue"
+  },
+  {
+    "lang1": "es",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "se"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sgs"
+  },
+  {
+    "lang1": "es",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "es",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "es",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ta"
+  },
+  {
+    "lang1": "es",
+    "lang2": "te"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tet"
+  },
+  {
+    "lang1": "es",
+    "lang2": "th"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "to"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tpw"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "es",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "es",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "es",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "es",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "es",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "es",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "es",
+    "lang2": "wa"
+  },
+  {
+    "lang1": "es",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "es",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "es",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "es",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "es",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "es",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "et",
+    "lang2": "fi"
+  },
+  {
+    "lang1": "et",
+    "lang2": "fo"
+  },
+  {
+    "lang1": "et",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "et",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "et",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "et",
+    "lang2": "io"
+  },
+  {
+    "lang1": "et",
+    "lang2": "it"
+  },
+  {
+    "lang1": "et",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "et",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "et",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "et",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "et",
+    "lang2": "la"
+  },
+  {
+    "lang1": "et",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "et",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "et",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "et",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "et",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "et",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "et",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "et",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "et",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "et",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "et",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "et",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "et",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "et",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "et",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "et",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "it"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "la"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "mwl"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "eu",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "fkv"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "he"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "id"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "io"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "is"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "it"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "izh"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "km"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "la"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nan"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "os"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "th"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "fi",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "fj",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "izh"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "fkv",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "fr"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "is"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "fo",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "frm"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "fro"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "frr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "fuc"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ga"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "gcf"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "gd"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "gl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "gn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "got"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "grc"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "he"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hi"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ht"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "iba"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "id"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ilo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "io"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "is"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "it"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "jam"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kha"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "km"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kum"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "la"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lij"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lld"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lmo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ln"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mg"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ml"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "myv"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "na"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nch"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "non"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "oar"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "os"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pag"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pam"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pcd"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pi"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "qu"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "rif"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "rm"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "rn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sa"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sc"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sm"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sn"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "so"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tg"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "th"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "thv"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tly"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "to"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tpi"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tpw"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ty"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "vec"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "wa"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "war"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "fr",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "fy"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "mi"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "frr",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "fuc",
+    "lang2": "it"
+  },
+  {
+    "lang1": "fuc",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "fur",
+    "lang2": "it"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "he"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "io"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "it"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "la"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "mi"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "fy",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "gv"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "he"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ga",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "gag",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "he"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "gcf",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "gos"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "it"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "gd",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "he"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "io"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "it"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gl",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "he"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "io"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "jv"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "gn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "he"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "hy"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "io"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "is"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "it"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "la"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "mi"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "gos",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "got",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "got",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "hbo"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "he"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "io"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "la"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "grc",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "he"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "io"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "gsw",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "gu",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hak",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "hak",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "he"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "io"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "la"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "oar"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "hbo",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "he",
+    "lang2": "hrx"
+  },
+  {
+    "lang1": "he",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "he",
+    "lang2": "id"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "he",
+    "lang2": "io"
+  },
+  {
+    "lang1": "he",
+    "lang2": "is"
+  },
+  {
+    "lang1": "he",
+    "lang2": "it"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "he",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "he",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "he",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "he",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "he",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "he",
+    "lang2": "la"
+  },
+  {
+    "lang1": "he",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "he",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "he",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "he",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "he",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "he",
+    "lang2": "nys"
+  },
+  {
+    "lang1": "he",
+    "lang2": "oar"
+  },
+  {
+    "lang1": "he",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "he",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "he",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "he",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "he",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "he",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "he",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "he",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "he",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "he",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "he",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "he",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "he",
+    "lang2": "syc"
+  },
+  {
+    "lang1": "he",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "he",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "he",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "he",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "he",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "he",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "he",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "he",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "he",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "he",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "it"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "hi",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "hil",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "hsb"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "hu"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "it"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "se"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "hr",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "hrx",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hrx",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "hsb",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "hsn",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ht",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ia"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "id"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "io"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "it"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "la"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "lij"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ty"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "hu",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "hy",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "hy",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "hy",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "hy",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ie"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "moh"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ia",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "iba",
+    "lang2": "id"
+  },
+  {
+    "lang1": "iba",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "iba",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "id",
+    "lang2": "io"
+  },
+  {
+    "lang1": "id",
+    "lang2": "it"
+  },
+  {
+    "lang1": "id",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "id",
+    "lang2": "jv"
+  },
+  {
+    "lang1": "id",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "id",
+    "lang2": "km"
+  },
+  {
+    "lang1": "id",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "id",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "id",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "id",
+    "lang2": "max"
+  },
+  {
+    "lang1": "id",
+    "lang2": "min"
+  },
+  {
+    "lang1": "id",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "id",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "id",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "id",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "id",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "id",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "id",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "id",
+    "lang2": "sa"
+  },
+  {
+    "lang1": "id",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "id",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "id",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "id",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "id",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "id",
+    "lang2": "zlm"
+  },
+  {
+    "lang1": "id",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "io"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "it"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ie",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ilo",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "io",
+    "lang2": "it"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "io",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "io",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "io",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "io",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "io",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "io",
+    "lang2": "la"
+  },
+  {
+    "lang1": "io",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "io",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "io",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "io",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "io",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "io",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "io",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "io",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "io",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "io",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "io",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "io",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "io",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "io",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "io",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "io",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "io",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "io",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "io",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "io",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "io",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "io",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "io",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "io",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "io",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "io",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "io",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "io",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "io",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "io",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "io",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "is",
+    "lang2": "it"
+  },
+  {
+    "lang1": "is",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "is",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "is",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "is",
+    "lang2": "la"
+  },
+  {
+    "lang1": "is",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "is",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "is",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "is",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "is",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "is",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "is",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "is",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "is",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "is",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ja"
+  },
+  {
+    "lang1": "it",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "it",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "it",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "it",
+    "lang2": "kk"
+  },
+  {
+    "lang1": "it",
+    "lang2": "kmr"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "it",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "it",
+    "lang2": "la"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lij"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "it",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "it",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "it",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "it",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "it",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "it",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "it",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "it",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "it",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "it",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "it",
+    "lang2": "otk"
+  },
+  {
+    "lang1": "it",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "it",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "it",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "it",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "it",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "it",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "it",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "it",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "it",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "it",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "it",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "it",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "it",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "it",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "it",
+    "lang2": "th"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "it",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "it",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "it",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "it",
+    "lang2": "vec"
+  },
+  {
+    "lang1": "it",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "it",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "it",
+    "lang2": "wo"
+  },
+  {
+    "lang1": "it",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "it",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "it",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "it",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "it",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "izh",
+    "lang2": "krl"
+  },
+  {
+    "lang1": "izh",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "izh",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "jbo"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ka"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "km"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ksh"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "kw"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ky"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lo"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "lzh"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "mdf"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "mhr"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ml"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "mt"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "my"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "myv"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nah"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nan"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "npi"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "nys"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "os"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ppl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sa"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tg"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "th"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "zlm"
+  },
+  {
+    "lang1": "ja",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "jpa"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "la"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "jbo",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "jpa",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "jv",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "jv",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "kab"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ka",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "kaa",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "ko"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "ku"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "la"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "shy"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "thv"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "kab",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "kha",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "kjh",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "la"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "kk",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "kl",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "km",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "km",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "km",
+    "lang2": "th"
+  },
+  {
+    "lang1": "km",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "la"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "rw"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "kmr",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "kzj"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "mn"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "ko",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "krc",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "krl",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "ksh",
+    "lang2": "pal"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "la"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "lld"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "toi"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ku",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "kum",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kum",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kw",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "kw",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "kw",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "kw",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "kw",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kxi",
+    "lang2": "mvv"
+  },
+  {
+    "lang1": "ky",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "ky",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "ky",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ky",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "lut"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "mr"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "mvv"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "th"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "zlm"
+  },
+  {
+    "lang1": "kzj",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "la",
+    "lang2": "lad"
+  },
+  {
+    "lang1": "la",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "la",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "la",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "la",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "la",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "la",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "la",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "la",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "la",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "la",
+    "lang2": "orv"
+  },
+  {
+    "lang1": "la",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "la",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "la",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "la",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "la",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "la",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "la",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "la",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "la",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "la",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "la",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "la",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "la",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "la",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "la",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "la",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "la",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "la",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "la",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "la",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "la",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "la",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "la",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "lb"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "lad",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "ldn"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "mi"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "lb",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "lfn"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "liv"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ldn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "lt"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "nb"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "nog"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "ota"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "lfn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "lij",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "liv",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "lld",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "lmo",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "sah"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "th"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "lt",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ltg",
+    "lang2": "lv"
+  },
+  {
+    "lang1": "lut",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "mk"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "sah"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "lv",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "lzh",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "lzh",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "lzh",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "lzz",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "mhr",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "mhr",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "mhr",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "mi",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "mi",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "mk",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "moh",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "moh",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "mr",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "mr",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "mr",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "mt",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "mt",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "mt",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "mt",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "mt",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "mwl",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "my",
+    "lang2": "th"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "nds"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "nn"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "se"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sma"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "nb",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "nl"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "nds",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "nov"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "oc"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "ofs"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "pap"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "phn"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "wa"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nl",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "sco"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "nn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nog",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nog",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "nog",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nog",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "nog",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "pes"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "nov",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "nys",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "oar",
+    "lang2": "syc"
+  },
+  {
+    "lang1": "oc",
+    "lang2": "osp"
+  },
+  {
+    "lang1": "oc",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "oc",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "oc",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "oc",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ofs",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ofs",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "ofs",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "or",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "orv",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "orv",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "orv",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "os",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "sc"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "osp",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ota",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ota",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ota",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ota",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "otk",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "pap",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "pap",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "pap",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "pl"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "sdh"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "pes",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "phn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "pi",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "pms"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "prg"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "pt"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "pl",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "pms",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ps",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "qya"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "rm"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "ro"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "se"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "sq"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "pt",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "qya",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "rn",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "rn",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "rom"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "ru"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "yo"
+  },
+  {
+    "lang1": "ro",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "rom",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "rom",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "rom",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sah"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "scn"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "shs"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sjn"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sl"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tk"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tl"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "ty"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "udm"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "xal"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "yo"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "ru",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "sah",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sco",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "sco",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sco",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "sdh",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sdh",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "se",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "shy",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "stq"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "swg"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "sjn",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "sr"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "sl",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "so",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sq",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "sq",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sq",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "sr",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "sr",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "sr",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "sux"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "sv"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "stq",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "swh"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "vep"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "sv",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "swg",
+    "lang2": "tlh"
+  },
+  {
+    "lang1": "swg",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "swg",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "swg",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "swh",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "swh",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "th",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "th",
+    "lang2": "tts"
+  },
+  {
+    "lang1": "th",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "tk",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "tk",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "tk",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "tk",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "tl",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "tmr"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "tlh",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "tmr",
+    "lang2": "tr"
+  },
+  {
+    "lang1": "tmr",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "tmr",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "tmr",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "tn",
+    "lang2": "xh"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "tt"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "tyv"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "tzl"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "ug"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "ur"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "wuu"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "xqa"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "tr",
+    "lang2": "zza"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "udm"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "tt",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "tzl",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "tzl",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "tzl",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "ug",
+    "lang2": "uk"
+  },
+  {
+    "lang1": "ug",
+    "lang2": "uz"
+  },
+  {
+    "lang1": "ug",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "ug",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "uk",
+    "lang2": "vi"
+  },
+  {
+    "lang1": "uk",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "uk",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "uk",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "uk",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "ur",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "uz",
+    "lang2": "vo"
+  },
+  {
+    "lang1": "uz",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "vep",
+    "lang2": "vro"
+  },
+  {
+    "lang1": "vi",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "vo",
+    "lang2": "yi"
+  },
+  {
+    "lang1": "wuu",
+    "lang2": "yue"
+  },
+  {
+    "lang1": "xh",
+    "lang2": "zu"
+  },
+  {
+    "lang1": "yue",
+    "lang2": "zsm"
+  },
+  {
+    "lang1": "zlm",
+    "lang2": "zsm"
+  }
+]
